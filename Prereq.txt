@@ -1,0 +1,7 @@
+Navigate to your project folder
+set GOOGLE_APPLICATION_CREDENTIALS=G:\Documents\College files\3rd year\Python\Project\Project1.0\My First Project-dab39d943021.json
+In another cmd, type mongod
+In yet another cmd, type mongo
+
+In the first cmd, type python home.py
+try folder should have only files with numbers as their names

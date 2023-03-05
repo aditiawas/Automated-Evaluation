@@ -1,0 +1,1 @@
+Accuracy , Precision , Sensitivity , Range , Zero - Drift , Zero - offset , Resolution , Linearity , Response time , Bandwidth , Resonance , Operating temperature , Deadband , Signal - to - Noise ratio 

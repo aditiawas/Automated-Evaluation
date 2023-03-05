@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "robotic-sanctum-224114",
+  "private_key_id": "dab39d943021273761710606e4aada747f0f9993",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCum/boJYCynRsu\n5vojRtoDofwzsIHqVfhJzMvUpxxF3iK2/zb/fm1v9veQPuDUkmUHdC+EK090+obz\ni3a69M4WXOIxjF7P9a5DAaVpXBtqqOOXRvK9kGxIrcP45EcJzm4DYaJKyoVNAt7X\n95qtF1vXNlq+b/gp8tTXtbzVrrOqRcVWPQcw+u53i93t72PlHRHh+5COGP9Y50KR\n47Fvooej3LFC7cQFbblOSOTEMhfVQVqaAlSzNDR2F7kJ/XWj1HQ2c2BnwQzuEhF4\nXd0Jqz8OAFwmeYzufAoKwlHBeuENZxMgbmCVRcSpnteOskG+G8QM+RL5dFPz0VGW\nrBPcJLqnAgMBAAECggEAKQ4n+H6064pwNU9++iNzKI6CX979NQ3Aww2B0b73MWBh\nNjj9BAcEkWJ25DY8pA7F7YI+l+udE6rCZ2pf4OalvHFbh/3y3x/ruPqem47aLXKH\njO7ULYlTRKWC4jc+kso0aNwgjkhfHnPx1ML13gQThp9Tp9po9egQbqXfQDkDKqI4\nrwqOP4DFkRY/ZVhS4HqGp9K/eEYRvmiJZ/HWtPLuJfrui9mqI6DIWPcWv0kA0poQ\ndbEKZd7PNmqppFVAf+Fhiu40s7uJhPTChfLMCu6pBIpgK0/BmXweO5gH1zLyxvf+\nd2SxJq/H9GCWX2jlOd7Slzb+pTGg4qv6VXbjVlpu1QKBgQDTkEqMVCeSfV7ecOD0\nWIEWTW8SpKHKFnL6kqogUrWkwXrWdsKV3yPJ2lxtafp2QCfV3Kp+ecnJBtwGPMYg\n4o1EuDy3zJCPS4NCabwzfqLoFLG0kDmRCaekaFc1sCudckp3K6tQCgMdo+DEE+e/\nbV3u7O/EHE+3m3CC0jjuU4mC/QKBgQDTSKWhj9kuV+S9Tv4q9Pl+7Rku/a7lHCPC\nr2ttuwWa4E3kwJ55viR04IZXf7NfTXc7bhC0yrXu6lSK2v18qFO/Dvnm9vCTbFg1\nyg40TOmn98OVKOuQ2fpJtmqN3z281VHUl5WpA1MWufpFBSHmcDS7uzn6ge6xBgmW\nsvPVz79fcwKBgEv5gjv4sKlTqnD5Wl+FNP48Won4Yz1+aFYBu2SWLzL2ZFWGGoTV\nuDVx3EVSjKZQjb2oW/XFaKhvdS4sPv5qPU8TVoKuzK8Y8A82h2Z6sKflXpe4P2QN\nco2BBuh51n/ZHlLDdObuYYYQZtQjTdMZxGTb45KqlBockP/53IYBq91FAoGBANBw\nuC7Wqk1FGv4Eg02/1rB4msK4NSYEh+cWhqZ/vnzX0yDdQrsacf74TrDd5AkedIWm\nBUdHQQuOFI/UkgW8TrqLvNE2R4s5dSDD0RWZ114FWee6sgN6eKjmFOMYHWFBFnTk\ngxp1lDA0lAopkRM1GWEnyYAxVVlBeo44x8PlK4ivAoGAOPhCZTGYuyDnPCe/byCo\n9LZOCI+uxUkMzvcyaW+lMqPzSKE0pcW6ApPu0jlzQ7A37q8uoMAPYajPtQJW1tHe\n1d/C6gYb8Is3ZBbNH74Y/0OwrbpEJDimQGJKeUhSVOaCerX4jUTNZXcGU31TvqCp\ntSuyaHIJGpjTB9+qfSMUwMQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pythonproject@robotic-sanctum-224114.iam.gserviceaccount.com",
+  "client_id": "110074108607684204300",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pythonproject%40robotic-sanctum-224114.iam.gserviceaccount.com"
+}
